@@ -71,7 +71,7 @@ Movement and updates are handled inside the `render()` function, which runs on a
 4.  Updates the snake's position: New head is added (`snake.unshift(head)`) and the tail is removed (`snake.pop()`) unless food was just eaten.
 5.  Updates the visual state by adding/removing the `.fill` class on the block elements.
 
-###🙌 Author
+### 🙌 Author
 
 Made with ❤️ by Vishal Prajwal S
 
