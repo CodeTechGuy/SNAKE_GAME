@@ -1,5 +1,7 @@
 # 🐍 Snake Game 
 
+<p align="center"> <img src="https://img.shields.io/badge/Game-Snake-%2300FF7F?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
+
 A classic Snake game implemented using fundamental web technologies (HTML, CSS, and pure JavaScript).
 
 ## 🚀 How to Play
@@ -36,6 +38,25 @@ The project consists of three files defining the structure, style, and logic:
 | `index.html` | Provides the layout (board, scores, modals) and links the stylesheet and script. |
 | `style.css` | Handles all styling, including variables for colors, board layout using CSS Grid, and styles for the snake (`.fill`) and food (`.food`). |
 | `script.js` | The game engine. Handles dynamic board creation, snake movement logic, collision checks, food generation, score updates, and user input via keydown events. |
+
+## 🛠 Installation
+
+No dependencies needed.
+
+Just clone the repo:
+ ```
+git clone https://github.com/<your-username>/snake-game.git
+cd snake-game
+```
+
+
+Open:
+```
+index.html
+```
+
+You're ready to play! 🎉
+
 
 ## ⚙️ Implementation Details
 
