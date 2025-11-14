@@ -1,4 +1,4 @@
-# 🐍 Snake Game (Vanilla JavaScript)
+# 🐍 Snake Game 
 
 A classic Snake game implemented using fundamental web technologies (HTML, CSS, and pure JavaScript).
 
@@ -42,7 +42,7 @@ The project consists of three files defining the structure, style, and logic:
 ### Game Board
 The board is created dynamically based on the container size and populated with `div.block` elements, which are stored in a JavaScript object (`blocks`) mapped by their coordinates (`"row-col"`).
 
-### Game Logic (`script.js`)
+### Game Logic (`script.js`) 
 Movement and updates are handled inside the `render()` function, which runs on an interval:
 1.  Calculates the new head position based on the current `direction`.
 2.  Checks for wall collision.
