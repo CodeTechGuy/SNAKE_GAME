@@ -70,3 +70,9 @@ Movement and updates are handled inside the `render()` function, which runs on a
 3.  Checks for food consumption: If consumed, the snake is *not* shortened (`snake.pop()` is skipped), and the score is incremented.
 4.  Updates the snake's position: New head is added (`snake.unshift(head)`) and the tail is removed (`snake.pop()`) unless food was just eaten.
 5.  Updates the visual state by adding/removing the `.fill` class on the block elements.
+
+###🙌 Author
+
+Made with ❤️ by Vishal Prajwal S
+
+If you like this project, please ⭐ star the repo — it helps a lot!
