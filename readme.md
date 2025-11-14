@@ -73,6 +73,6 @@ Movement and updates are handled inside the `render()` function, which runs on a
 
 ###🙌 Author
 
-Made with ❤️ by Vishal
+Made with ❤️ by Vishal 
 
 If you like this project, please ⭐ star the repo — it helps a lot!
