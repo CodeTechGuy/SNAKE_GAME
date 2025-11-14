@@ -45,7 +45,7 @@ No dependencies needed.
 
 Just clone the repo:
  ```
-git clone https://github.com/<your-username>/snake-game.git
+git clone https://github.com/CodeTechGuy/snake-game.git
 cd snake-game
 ```
 
