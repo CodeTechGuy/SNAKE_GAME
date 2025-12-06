@@ -4,6 +4,8 @@
 
 A classic Snake game implemented using fundamental web technologies (HTML, CSS, and pure JavaScript).
 
+<img width="3092" height="1633" alt="Image" src="https://github.com/user-attachments/assets/291a2741-94d7-45bc-afc1-7ced2a0fb665" />
+
 ## 🚀 How to Play
 
 1.  Open the `index.html` file in your web browser.
